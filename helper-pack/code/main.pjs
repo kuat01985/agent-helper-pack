@@ -1,0 +1,10 @@
+generateText = {import:ai-text-plugin}
+generateImage = {import:text-to-image-plugin}
+kv = {import:kv-plugin}
+superFetch = {import:super-fetch-plugin}
+uploadPlugin = {import:upload-plugin}
+
+$meta
+  title = Pocket Agent - a tiny AI helper you can grow
+  description = A minimal tool-using AI agent demo: memory, web reading, and image generation in a loop.
+  tags = ai, agent, assistant, demo
